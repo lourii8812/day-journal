@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Lunari — Your Quiet Universe",
+  "short_name": "Lunari",
+  "description": "A private, offline-friendly mood journal and memory keeper.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#100e1c",
+  "theme_color": "#171329",
+  "categories": ["lifestyle", "health", "productivity"],
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
